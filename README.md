@@ -2,6 +2,9 @@
 
 Sistema de eventos encomendado pela Morena.
 
+[![Build Status](https://travis-ci.org/ramiroluz/wttd-eventex.svg?branch=master)](https://travis-ci.org/ramiroluz/wttd-eventex)
+[![Code Health](https://landscape.io/github/ramiroluz/wttd-eventex/master/landscape.svg?style=flat)](https://landscape.io/github/ramiroluz/wttd-eventex/master)
+
 ## Como desenvolver?
 
 1. Clone este repositório
